@@ -1,0 +1,71 @@
+
+body {
+    background-color: rgb(73, 73, 73);
+    color: rgb(73, 73, 73);
+    padding: 15%;
+    padding-top: 1%;
+    padding-bottom: 0%;
+}
+
+.myHeader {
+    background-color: rgb(131, 131, 131);
+    margin-bottom: 1%;
+    padding: 5%;
+    text-align: center;
+}
+
+.myNav {
+    background-color: rgb(131, 131, 131);
+    margin-bottom: 2%;
+    padding: 5%;
+    text-align: center;
+}
+
+.mySection {
+    background-color: rgb(131, 131, 131);
+    /* margin-right: 2%; */
+    margin-bottom: 15%;
+    padding: 5%;
+    /* padding-top: 5%; */
+    /* padding-bottom: 5%; */
+    /* padding-top: 10%; */
+    text-align: center;
+    width: 39%;
+    float: left;
+}
+
+.asideCSS {
+    background-color: rgb(131, 131, 131);
+    padding: 5%;
+    margin-bottom: 15%;
+    /* padding-bottom: 15%; */
+    text-align: center;
+    width: 39%;
+    float: right;
+}
+
+/* .myArticle {
+    background-color: rgb(73, 73, 73);
+    padding: 1%;
+    padding-top: 10%;
+    text-align: center;
+} */
+/* 
+.insideHeader {
+    background-color: rgb(131, 131, 131);
+    margin-bottom: 1%;
+    text-align: center;
+}
+
+.insideParagraph {
+    background-color: rgb(131, 131, 131);
+    text-align: center;
+} */
+
+.myFooter {
+    margin-top: 10%;
+    padding: 5%;
+    background-color: rgb(131, 131, 131);
+    text-align: center;
+    float: bottom;
+}
