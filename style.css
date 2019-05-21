@@ -1,71 +1,86 @@
 
 body {
-    background-color: rgb(73, 73, 73);
-    color: rgb(73, 73, 73);
+    color: #777;
+    background-color: #777;
     padding: 15%;
-    padding-top: 1%;
+    padding-top: 0%;
     padding-bottom: 0%;
+    font-family: 'Arial','Helvetica Neue',Helvetica,sans-serif;
+    /* width: '960px' */
+    font-size: '18px';
 }
 
+/* h1, p1 {
+    color: #777;
+    background: #ebebeb;
+} */
+
 .myHeader {
-    background-color: rgb(131, 131, 131);
+    background-color: #ebebeb;
     margin-bottom: 1%;
     padding: 5%;
     text-align: center;
 }
 
 .myNav {
-    background-color: rgb(131, 131, 131);
+    background: #ebebeb;
     margin-bottom: 2%;
     padding: 5%;
     text-align: center;
 }
 
 .mySection {
-    background-color: rgb(131, 131, 131);
+    background: #ebebeb;
     /* margin-right: 2%; */
     margin-bottom: 15%;
-    padding: 5%;
+    padding: 1%;
+    /* padding-top: 3%; */
     /* padding-top: 5%; */
     /* padding-bottom: 5%; */
     /* padding-top: 10%; */
     text-align: center;
-    width: 39%;
+    /* section: 495px; */
+    width: 495px;
     float: left;
 }
 
 .asideCSS {
-    background-color: rgb(131, 131, 131);
+    background: #ebebeb;
     padding: 5%;
     margin-bottom: 15%;
     /* padding-bottom: 15%; */
     text-align: center;
-    width: 39%;
+    width: 29%;
     float: right;
 }
 
-/* .myArticle {
-    background-color: rgb(73, 73, 73);
-    padding: 1%;
-    padding-top: 10%;
+.myFooter {
+    margin-top: 25%;
+    padding: 5%;
+    background: #ebebeb;
     text-align: center;
-} */
-/* 
-.insideHeader {
-    background-color: rgb(131, 131, 131);
-    margin-bottom: 1%;
+    float: bottom;
+}
+
+.myArticle {
+    color: #ebebeb;
+    background: #777;
+    padding: 4%;
+    padding-top: 1%;
     text-align: center;
 }
 
-.insideParagraph {
-    background-color: rgb(131, 131, 131);
-    text-align: center;
-} */
-
-.myFooter {
-    margin-top: 10%;
+.myHeader {
+    color: #777;
+    background: #ebebeb;
+    margin-bottom: 2%;
     padding: 5%;
-    background-color: rgb(131, 131, 131);
     text-align: center;
-    float: bottom;
+}
+
+.myParagraph {
+    color: #777;
+    background: #ebebeb;
+    padding: 5%;
+    text-align: center;
 }
