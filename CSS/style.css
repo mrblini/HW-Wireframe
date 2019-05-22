@@ -3,12 +3,12 @@ body {
     color: #777;
     background: #777;
     padding: 15%;
-    padding-top: 0%;
-    padding-bottom: 0%;
+    padding-top: 1%;
+    padding-bottom: 1%;
     font-family: 'Arial','Helvetica Neue',Helvetica,sans-serif;
-    /* width: '960px' */
     font-size: '18px';
-}
+    text-align: center;
+} 
 
 /* h1, p1 {
     color: #777;
@@ -17,31 +17,18 @@ body {
 
 .myHeader {
     background: #ebebeb;
-    margin-bottom: 0%;
-    padding: 0%;
-    text-align: center;
 }
 
 .myNav {
     background: #ebebeb;
     margin-bottom: 2%;
-    padding: 1%;
-    text-align: center;
+    padding: 5%;
 }
 
 .mySection {
     background: #ebebeb;
-    /* margin-right: 2%; */
-    margin-bottom: 15%;
     padding: 1%;
-    /* padding-top: 3%; */
-    /* padding-top: 5%; */
-    /* padding-bottom: 5%; */
-    /* padding-top: 10%; */
-    text-align: center;
-    /* section: 495px; */
     width: 58%;
-    /* width: 495px; */
     float: left;
 }
 
@@ -50,26 +37,36 @@ body {
     padding: 1%;
     margin-bottom: 15%;
     padding-bottom: 31%;
-    text-align: center;
     width: 29%;
     float: right;
 }
 
 .myFooter {
-    margin-top: 4s5%;
-    padding: 4%;
-    padding-bottom: 15%;
+    margin-top: 5%;
+    padding: 2%;
     background: #ebebeb;
-    text-align: center;
-    float: bottom;
+    display: block;
 }
+
+.delete {
+    background: blue;
+}
+
+.hide {
+    background: #777;
+    z-index: 0;
+}
+
+
+
+
+
 
 .myArticle {
     color: #ebebeb;
     background: #777;
     padding: 4%;
     padding-top: 1%;
-    text-align: center;
 }
 
 .myHeader {
@@ -77,12 +74,10 @@ body {
     background: #ebebeb;
     margin-bottom: 2%;
     padding: 4%;
-    text-align: center;
 }
 
 .myParagraph {
     color: #777;
     background: #ebebeb;
     padding: 4%;
-    text-align: center;
 }
